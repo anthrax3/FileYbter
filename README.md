@@ -24,3 +24,7 @@ if file executed
 
 
 <h2> class </h2>
+Has  4 Methods </br >
+1- Reads all bytes of a file and return on a string format , each bytes separated with a whitespace 
+2- the same as 1st Method but returned result is an array of bytes initialization </br>
+3- Third method takes 
