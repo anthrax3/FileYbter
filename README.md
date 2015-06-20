@@ -39,5 +39,4 @@ next execution  of a file
 
 
 <2>Watch </h2>
-http://youtu.be/iiE88pB5D8U</br>
-YT("http://www.youtube.com/watch?v=ArHQjQyIS70", print = TRUE)
+http://youtu.be/iiE88pB5D8U</br> 
