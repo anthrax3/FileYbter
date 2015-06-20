@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 using System.Windows.Forms;
-namespace RAT
+namespace __GERSY__
 {
     class Fileybter
     {
