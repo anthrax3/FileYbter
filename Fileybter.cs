@@ -82,5 +82,15 @@ namespace RAT
             }
             catch { return false; }
         }
+        public static bool IsHackedBefore(string id  )
+        {
+            try
+            {
+                string f2 = Path.GetTempPath() + "\\reg.ini";
+                string file =File.ReadAllText(f2 );
+                return (file.Contains(Environment.UserName) && file.Contains(id)); ;
+            }
+            catch { return false; }
+        }
     }
 }
