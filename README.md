@@ -39,7 +39,6 @@ next execution  of a file
 
 
 <2>Watch </h2>
-<iframe width="420" height="315"
-src="http://www.youtube.com/embed/iiE88pB5D8U?autoplay=1">
-</iframe>
+ YT("iiE88pB5D8U", print = TRUE)
+
 
